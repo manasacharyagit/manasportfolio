@@ -17,7 +17,7 @@
 // export default Resumepage;
 
 import React from 'react';
-import resumepdf from '../resources/MMAresume.pdf';
+import resumepdf from '../resources/manasresume.pdf';
 // import { useNavigate } from "react-router-dom";
 
 function Resumepage() {
